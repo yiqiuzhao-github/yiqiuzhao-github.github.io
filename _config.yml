@@ -23,7 +23,7 @@ repository               : "yiqiuzhao-github/yiqiuzhao-github.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_pic2.png"
+  avatar           : "profile.png"
   name             : "Yiqiu Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Soft Matter and Statistical Physics"
