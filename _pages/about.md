@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -6,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+-->
 
 Welcome to my website! I am an experimental physicist working on soft matter and statistical physics.
 
