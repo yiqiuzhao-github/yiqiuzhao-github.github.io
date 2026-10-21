@@ -9,7 +9,7 @@ redirect_from:
 ---
 -->
 
-I am a postdoc fellow at the Hong Kong University of Science and Technology. My research focuses on soft matter and statistical physics.
+I am a postdoc fellow at the Hong Kong University of Science and Technology. My research focuses on experimental soft matter and statistical physics.
 
 Experiences
 ------
