@@ -12,6 +12,16 @@ About
 
 I am an experimental physicist working on granular and soft materials. Currently, I am a postdoc researcher in Prof. Qin Xu's lab at the Hong Kong University of Science and Technology. 
 
+Experiences
+------
+2021 - 2026 Postdoc Fellow, Department of Physics, The Hong Kong University of Science and Technology
+
+2020 - 2021 Postdoc Fellow, Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
+
+2015 - 2020 PhD. in Physics, Department of Physics, Duke University
+
+2011 - 2015 Bsc. in Physics, Taishan Collage (Honor School), Shandong University
+
 Contact
 ------
 
