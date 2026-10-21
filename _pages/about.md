@@ -1,4 +1,4 @@
-<!--
+
 ---
 permalink: /
 title: "Homepage"
@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
--->
+
 
 I am a postdoc fellow at the Hong Kong University of Science and Technology. My research focuses on experimental soft matter and statistical physics.
 
