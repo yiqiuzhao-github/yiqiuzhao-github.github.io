@@ -9,17 +9,26 @@ redirect_from:
 ---
 -->
 
-Welcome to my website! I am an experimental physicist working on soft matter and statistical physics.
+I am a postdoc fellow at the Hong Kong University of Science and Technology. My research focuses on soft matter and statistical physics.
 
 Experiences
 ------
-2021 - 2026 Postdoc Fellow, Department of Physics, The Hong Kong University of Science and Technology
 
-2020 - 2021 Postdoc Fellow, Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
+2021 - 2026 Postdoc Fellow
 
-2015 - 2020 PhD. in Physics, Department of Physics, Duke University
+Department of Physics, The Hong Kong University of Science and Technology
 
-2011 - 2015 Bsc. in Physics, Taishan College (Honor School), Shandong University
+2020 - 2021 Postdoc Fellow
+
+Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
+
+2015 - 2020 PhD. in Physics
+
+Department of Physics, Duke University
+
+2011 - 2015 Bsc. in Physics
+
+Taishan College (Honor School), Shandong University
 
 Contact
 ------
